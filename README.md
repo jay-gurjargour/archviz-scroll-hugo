@@ -11,3 +11,4 @@ Alternative theme for archviz website
 3. Go to the cloned repository and run `hugo server -D`
 
 # Theme: https://github.com/janraasch/hugo-scroll
+##
