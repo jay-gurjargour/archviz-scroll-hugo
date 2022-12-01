@@ -1,5 +1,6 @@
 ---
 header_image: "images/cover-image.jpg"
-header_headline: "ArchWiz"
-header_subheadline: "BEST ARCHVIZ FROM RAJASTHAN"
+header_headline: "7 Lakes Viz"
+header_subheadline: "Interior | Landscape | VR/AR Walkthroughs"
 ---
+hello

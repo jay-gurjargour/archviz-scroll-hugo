@@ -5,8 +5,8 @@ header_menu: true
 ---
 
 
-{{<icon class="fa fa-envelope">}}&nbsp;[mail@7lakesviz.com](mailto:your-email@your-domain.com)
+{{<icon class="fa fa-envelope">}}&nbsp;[mail@7lakesviz.com](mailto:mail@7lakesviz.com)
 
-{{<icon class="fa fa-phone">}}&nbsp;[+91 999 123456](tel:+491111555555)
+{{<icon class="fa fa-phone">}}&nbsp;[+91 999 123456](tel:+91999123456)
 
 Let us get in touch!
