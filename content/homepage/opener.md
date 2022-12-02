@@ -1,5 +1,5 @@
 ---
-title: "Visualization."
+title: "Visualization"
 weight: 1
 ---
 
