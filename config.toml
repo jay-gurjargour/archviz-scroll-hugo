@@ -39,3 +39,15 @@ title = "7 Lakes Viz - Visualization Studio"
 
     [params.meta]
         keywords = "Visualization, Studio, 3D, VR, archviz, arch viz india, arch viz Rajasthan, architecture visualization, architecture visualization Rajasthan"
+    
+[deployment]
+    order = [".png$", ".webp$", ".jpg$", ".gif$"]
+    
+    [[deployment.targets]]
+        name = "mydeployment"
+
+    [[deployment.matchers]]
+        pattern = "^.+\\.(png|webp|jpg|gif)$"
+        cacheControl = "max-age=2419200, no-transform, public"
+        gzip = false
+
