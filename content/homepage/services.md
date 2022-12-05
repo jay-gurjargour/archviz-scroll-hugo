@@ -14,8 +14,8 @@ Exterior visualization will allow for look and interaction with buildings of any
 
 With photoreal exterior renders, Architects and Developers have no trouble getting their ideas across to clients, contractors and contest jurors.
 
-![Nice picture to make you pay me ;-)](images/Luxury_home.png)
-
+![Nice picture to make you pay me ;-)](images/Luxury_home.webp)
+https://7lakesviz.com/services/
 Wow. That was nice, right? Well, call me and let us talk.
 
 ---
@@ -24,7 +24,7 @@ Wow. That was nice, right? Well, call me and let us talk.
 
 Interior visualization will allow for look and interaction with the human aspect of architecture as it will convey the ideas and even interaction within a place that has yet to be constructed. This allow for early client feedback and faster iteration of ideas.
 
-![Let us get started on a clean slate](images/Apartment_interior1.png)
+![Let us get started on a clean slate](images/Apartment_interior1.webp)
 
 
 ---
@@ -34,7 +34,7 @@ Interior visualization will allow for look and interaction with the human aspect
 
 We offer Still renders in life like images that can be printed and showcased.
 
-![Let us get started on a clean slate](images/Chapel_01.png)
+![Let us get started on a clean slate](images/Chapel_01.webp)
 
 #### Animation
 
