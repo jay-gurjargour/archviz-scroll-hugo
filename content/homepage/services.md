@@ -15,7 +15,9 @@ Exterior visualization will allow for look and interaction with buildings of any
 With photoreal exterior renders, Architects and Developers have no trouble getting their ideas across to clients, contractors and contest jurors.
 
 ![Nice picture to make you pay me ;-)](images/Luxury_home.webp)
+<!--
 [//]: # (https://7lakesviz.com/services/)
+--->
 Wow. That was nice, right? Well, call me and let us talk.
 
 ---
