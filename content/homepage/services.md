@@ -36,20 +36,44 @@ Interior visualization will allow for look and interaction with the human aspect
 
 We offer Still renders in life like images that can be printed and showcased.
 
+##### Interior
+-- Basic offering: ₹ 6k/room ( 3 renders, 2 revisions )
+
+-- Every extra render after basic offering: Rs2.5k/render + 1 extra revision
+
+##### Exterior
+-- Basic offering: ₹ 10k ( 5 renders, 4 revisions )
+
+-- Every extra render after basic offering: Rs2.5K/render
+
 ![Let us get started on a clean slate](images/Chapel_01.webp)
 
+---
 #### Animation
 
 The architectural movie takes the audience on a tour around the property as if it were already built.
 
-![Let us get started on a clean slate](images/giphy.gif)
+##### Interior
+-- Basic offering: ₹ 1.5k per second (3 revisions)
 
+##### Exterior
+-- Basic offering: ₹ 750 per second (3 revisions)
 
+{{< video src="/images/video1.mp4" type="video/mp4" preload="auto" >}}
+
+---
 #### Virtual Reality
 
  Self-guided tours around the properties and designs promoted. What’s more, viewers can see every detail of the future real estate unit and get immersed into its atmosphere.
 
-![Let us get started on a clean slate](images/giphy2.gif)
+##### Interior
+-- Basic offering: ₹ 100/ft²
+
+##### Interior
+-- Basic offering: ₹ 65/ft²
+
+ {{< video src="/images/Video_VR.mp4" type="video/mp4" preload="auto" >}}
+
 ---
 
 

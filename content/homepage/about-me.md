@@ -4,7 +4,7 @@ weight: 3
 header_menu: true
 ---
 
-![ArkWiz](images/logo.png)
+![ArkWiz](images/collab.webp)
 
 ##### Professionel Experience
 
